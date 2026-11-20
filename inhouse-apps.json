@@ -38,7 +38,7 @@
     {"pkg": "jp.runstrategy.mymedia", "name": "MyMedia", "repo": "fffuttta-design/futavideo-releases", "asset": "FutaVideo.apk", "category": "写真・動画・音楽"},
     {"pkg": "jp.runstrategy.myalbum", "name": "MyAlbum", "repo": "fffuttta-design/futaalbum-releases", "asset": "futaalbum-{v}.apk", "category": "写真・動画・音楽"},
     {"pkg": "jp.runstrategy.mycamera", "name": "MyCamera", "repo": "fffuttta-design/futacam-releases", "asset": "futacam-{v}.apk", "category": "写真・動画・音楽"},
-    {"pkg": "jp.runstrategy.myhome", "name": "MyHome", "repo": "fffuttta-design/fhome-releases", "asset": "FHome.apk", "category": "スマホの道具"},
+    {"pkg": "jp.runstrategy.myhome", "name": "MyHome", "repo": "fffuttta-design/myhome-releases", "asset": "FHome.apk", "category": "スマホの道具"},
     {"pkg": "com.futamura.adbtile", "name": "WifiAdbTile", "repo": "fffuttta-design/wifiadbtile-releases", "asset": "wifiadbtile-{v}.apk", "category": "スマホの道具"},
     {"pkg": "jp.runstrategy.myqr", "name": "MyQR", "repo": "fffuttta-design/futaqr-releases", "asset": "futaqr-{v}.apk", "category": "スマホの道具"},
     {"pkg": "com.futamura.bluecut", "name": "MyBlueCut", "repo": "fffuttta-design/futabluecut-android-releases", "asset": "FutaBlueCut.apk", "category": "スマホの道具"},

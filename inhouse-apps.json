@@ -9,7 +9,7 @@
     {"pkg": "jp.runstrategy.sheetapp", "name": "SheetApp", "manifest": "https://sheetdic.web.app/app/version.json", "apk": "https://sheetdic.web.app/app/app-update.bin", "category": "仕事"},
     {"pkg": "com.futamura.ytsummarizer", "name": "YouTube要約", "repo": "fffuttta-design/youtube-summarizer-android-releases", "asset": "YouTubeSummarizer.apk", "category": "仕事"},
     {"pkg": "com.futamura.futaplaud", "name": "MyPlaude", "manifest": "https://futaplaud.vercel.app/app/version.json", "apk": "https://futaplaud.vercel.app/app/futaplaud.apk", "category": "仕事"},
-    {"pkg": "dev.flashshare.app", "name": "FlashShare", "repo": "fffuttta-design/FlashShare-releases", "tagPrefix": "android-v", "multi": true, "asset": "FlashShare.apk", "category": "仕事"},
+    {"pkg": "dev.flashshare.app", "name": "FlashShare", "repo": "fffuttta-design/FlashShare-android-releases", "asset": "FlashShare.apk", "category": "仕事"},
     {"pkg": "com.futamura.infomaster", "name": "MyInfoMaster", "manifest": "https://futa-info-master.vercel.app/version.json", "category": "仕事"},
     {"pkg": "jp.runstrategy.mycontacts", "name": "連絡帳", "repo": "fffuttta-design/futacontacts-android-releases", "asset": "FutaContacts.apk", "category": "仕事"},
     {"pkg": "com.futapass.app", "name": "MyPass", "manifest": "https://futapass-ec877.web.app/version.json", "apk": "https://futapass-ec877.web.app/app-update.bin", "category": "仕事"},
